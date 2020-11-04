@@ -1,5 +1,2 @@
-# Halo 👋
-
-  - Mahasiswa
-  - Baru belajar programming
-  - Berminat di bidang game dev dan machine learning
+# Hello 👋
+My Name is Alif. I'm from Indonesia, and currently studying at Bandung Institute of Technology.
